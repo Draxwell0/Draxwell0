@@ -1,4 +1,4 @@
-### Opa, eu sou o Guilherme 👋
+### Eu sou o Guilherme 👋
 
 ##
 
