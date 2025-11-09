@@ -20,6 +20,7 @@
  <img align="center" alt="Mocha" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />         
  <img align="center" alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
  <img align="center" alt="Redis" height="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/redis/redis-original.svg" />
+ <img align="center" alt="RabbitMQ" height="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/rabbitmq/rabbitmq-original.svg" />
  
  <img align="center" alt="GitHub" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
  <img align="center" alt="Azure" height="40" src="https://github.com/devicons/devicon/blob/v2.17.0/icons/azure/azure-original.svg" />
